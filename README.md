@@ -112,6 +112,4 @@ Useful options:
 Every script saves per-pair records (scores, predictions and correctness) as JSON under `results/`, so any metric
 can be recomputed without rerunning.
 
-## License
 
-MIT, see `LICENSE`.
